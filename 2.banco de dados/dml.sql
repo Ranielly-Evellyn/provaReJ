@@ -1,4 +1,4 @@
-USE  catalagoFilmesDB;
+USE  catalogoFilmesDBinfoC;
 
 INSERT INTO tb_usuario (nm_usuario, ds_email, ds_senha)
     VALUES  ('admin', 'joaoadm@adm.com.br', '1234');

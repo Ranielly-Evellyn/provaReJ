@@ -1,4 +1,4 @@
-CREATE DATABASE catalogoFilmesDB;
+CREATE DATABASE catalogoFilmesDBinfoC;
 USE catalagoFilmesDB;
 
 CREATE TABLE tb_usuario (
