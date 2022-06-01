@@ -46,6 +46,7 @@ SELECT id_filme         id,
         nm_filme            nome,
         vl_avaliacao        avaliacao,
         dt_lancamento       lancamento,
+        img_filme            capa,
         bt_disponivel       disponivel
 FROM tb_filme;
 WHERE id_filme      = 1;
